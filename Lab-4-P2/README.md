@@ -7,4 +7,4 @@ BST to use for Problem 2. BST Root is 50.
 		    / \ 
 		 30    70 
 		 / \   / \ 
-	   20  40 60 80  
+	       20  40 60 80  
