@@ -1,4 +1,4 @@
-package CSC2720_Lab4;
+package packages;
 class TreeException extends RuntimeException {
     public TreeException(String s) {
       super(s);

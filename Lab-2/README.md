@@ -1,2 +1,2 @@
-## CSC 2720 Lab #2
-Write a function called **backspaceCompare** that takes two strings *s1* and *s2* and evaluates them when both are typed into empty text editors. (# means a backspace character). **backspaceCompare** should return true if the evaluated strings are equal, or false if they are not equal. You should make use of the built-in Java implementation of the stack data structure under **java.util.Stack**. (Assume that the user inputs correct strings.)
+## Data Structures: Lab #2
+Write a function called *backspaceCompare* that takes two strings **s1** and **s2** and evaluates them when both are typed into empty text editors. (# means a backspace character). *backspaceCompare* should return true if the evaluated strings are equal, or false if they are not equal. You should make use of the built-in Java implementation of the stack data structure under *java.util.Stack*. (Assume that the user inputs correct strings.)

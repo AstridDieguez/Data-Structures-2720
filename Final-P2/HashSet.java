@@ -1,4 +1,4 @@
-package CSC2720_Final;
+package packages;
 import java.util.Arrays;
 
 public class HashSet<T> {

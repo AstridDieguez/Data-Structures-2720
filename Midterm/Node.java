@@ -1,4 +1,4 @@
-package CSC2720_Midterm;
+package packages;
 // Node class of type contains only three elements
 // a value of type T, a prev node and a next node
 public class Node<T> {

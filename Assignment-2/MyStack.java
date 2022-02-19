@@ -1,4 +1,4 @@
-package CSC2720_Assignment2;
+package packages;
 
 public class MyStack<T> {
 	

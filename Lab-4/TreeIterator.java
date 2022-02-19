@@ -1,4 +1,4 @@
-package CSC2720_Lab4;
+package packages;
 import java.util.LinkedList;
 
 public class TreeIterator<T> implements java.util.Iterator<T> {

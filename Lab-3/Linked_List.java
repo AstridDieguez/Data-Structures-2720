@@ -1,12 +1,13 @@
+package packages;
+// import packages.Node;
 // Using same Linked_List class from the Midterm assignment
 // Edited: Removed size variable
-package CSC2720_Lab3;
 // Space and time complexity is directly proportional O(n)
 public class Linked_List<T> {
 	// head and nail are nodes that refer to the beginning and end of the linked list
 	// they hold a null value, but serve to point to the next or previous element
-	Node<T> head;
-	Node<T> last;
+	public Node<T> head;
+	public Node<T> last;
 	
 	public Linked_List(){
 		// head and tail are initialized with a null value

@@ -1,4 +1,4 @@
-package CSC2720_Midterm;
+package packages;
 // Space and time complexity is directly proportional O(n)
 public class Linked_List<T> {
 	// size refers to the current number of items in the Linked List

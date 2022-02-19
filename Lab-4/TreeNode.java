@@ -1,4 +1,4 @@
-package CSC2720_Lab4;
+package packages;
 public class TreeNode<T> {
 	
   private T item;

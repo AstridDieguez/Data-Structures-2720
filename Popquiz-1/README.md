@@ -1,0 +1,2 @@
+## Data Structures: Pop Quiz #1
+Given a linked list of integers, write a function getUnique that removes all duplicates elements in the linked list and returns the new linked list of unique elements (The order does not matter).

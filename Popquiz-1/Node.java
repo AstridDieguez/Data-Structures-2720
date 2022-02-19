@@ -1,14 +1,14 @@
-package CSC2720_PopQuiz1;
+package packages;
 
 public class Node {
-	Integer item;
-	Node next;
+	public Integer item;
+	public Node next;
 	
-	Node(int d){
+	public Node(int d){
 		item = d;
 		next = null;
 	}
-	Node(){
+	public Node(){
 		item = null;
 		next = null;
 	}

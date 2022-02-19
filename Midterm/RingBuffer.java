@@ -1,4 +1,4 @@
-package CSC2720_Midterm;
+package packages;
 import java.util.Arrays;
 // Time and space complexity is directly proportional O(n)
 public class RingBuffer<T> {

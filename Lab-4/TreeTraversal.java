@@ -1,4 +1,4 @@
-package CSC2720_Lab4;
+import packages.*;
 public class TreeTraversal {
 	
 	public static void main(String[] args){

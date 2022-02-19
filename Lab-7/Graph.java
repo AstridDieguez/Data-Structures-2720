@@ -1,10 +1,10 @@
-package CSC2720_Lab7;
+package packages;
 import java.util.LinkedList;
 
 public class Graph {
-	int numVertices;
-	LinkedList<Integer>[] adjacencyList;
-	Graph(int n){
+	public int numVertices;
+	public LinkedList<Integer>[] adjacencyList;
+	public Graph(int n){
 		numVertices = n;
 		adjacencyList = new LinkedList[numVertices];
 		for(int i = 0; i < numVertices; i++) {

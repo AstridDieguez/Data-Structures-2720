@@ -1,8 +1,8 @@
-package CSC2720_Lab4P2;
+package packages;
 
 public class BinarySearchTree {
 	/* Root of BST */
-	Node root;
+	public Node root;
 	
 	/* Constructor */
 	public BinarySearchTree() {

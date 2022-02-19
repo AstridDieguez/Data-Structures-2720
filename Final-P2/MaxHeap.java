@@ -1,4 +1,4 @@
-package CSC2720_Final;
+package packages;
 
 public class MaxHeap {
 	private int [] Heap;

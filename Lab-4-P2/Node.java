@@ -1,8 +1,8 @@
-package CSC2720_Lab4P2;
+package packages;
 
 public class Node {
-	int data;
-	Node left, right;
+	public int data;
+	public Node left, right;
 	
 	public Node(int d) {
 		data = d;

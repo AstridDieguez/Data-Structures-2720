@@ -1,2 +1,2 @@
-## CSC 2720 Lab #2 Part 2
-A palindrome is a string of characters that reads the same from left to right as it does from right to left. Write a function called **checkPalindrome** that takes a string *s1* and evaluate if the string is a palindrome or not using only a stack and a queue data structures. You should make use of the built-in Java implementation of the stack and queue data structure under **java.util.Stack** and **java.util.Queue**.
+## Data Structures: Lab #2 Part 2
+A palindrome is a string of characters that reads the same from left to right as it does from right to left. Write a function called *checkPalindrome* that takes a string **s1** and evaluates if the string is a palindrome or not using only a stack and a queue data structures. You should make use of the built-in Java implementation of the stack and queue data structure under *java.util.Stack* and *java.util.Queue*.

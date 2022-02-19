@@ -1,0 +1,2 @@
+## Data Structures: Lab #7
+Given the adjacency list representation of a graph, write a function *generateAdjMatrix* that generates and returns the adjacency matrix representation of the graph based on the adjacency list. Write another function *printMatrix* that takes the adjacency matrix input and print it.
