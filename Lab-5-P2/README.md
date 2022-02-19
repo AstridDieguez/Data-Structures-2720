@@ -12,7 +12,7 @@ Your best friend Bob asked you to count the number of integer pairs in a given a
       * If diff < k, increment right pointer
    e. return counter
 
-2. Use hashing (solve_with_Hash(int[] array, int k))
+2. Use hashing (solve_with_Hash(int[] array, int k))  
    a. Initialize a counter variable to 0  
    b. Insert all elements of array in a hashtable  
    c. For every element in array:  
